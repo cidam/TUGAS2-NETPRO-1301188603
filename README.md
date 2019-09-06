@@ -27,5 +27,7 @@
 
 #### SOAL NOMOR 2 ####
 
+[![Screen-Shot-2019-09-06-at-20-36-07.png](https://i.postimg.cc/CKjMsn32/Screen-Shot-2019-09-06-at-20-36-07.png)](https://postimg.cc/94QjW0FP)
+
 
 
