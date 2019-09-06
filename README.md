@@ -20,7 +20,9 @@
 #### SOAL NOMOR 1 ####
 
 1. Kelompok kami akan membuat sebuah perncangan jaringan pada sebuah perusahaan penerbangan.
+
 2. Pada perusahaan penerbangan ini sangat dibutuh kan sebuah Web Server yang fungsinya untuk melakukan penjualan tiket secara online. Web Server ini juga nantinya dapat di akses oleh pelanggan dan data pelanggan, transaksi dan sebagainya akan di simpan ke dalam Database Server. Selain Web Server, Perusahaan ini juga membutuhkan sebuah FTP Server yang berfungsi sebagai sebuah protokol atau media untuk melakukan proses download maupun upload E-Ticket. Dalam proses bisnisnya, perusahaan ini juga membutuhkan sebuah Mail Server. Mail Server berfungsi untuk memberikan notifikasi kepada pelanggan melalui email. Dan yang terakhir perusahaan ini membutuhkan Server Monitoring untuk melakukan proses pengumpulan data dan melakukan analisis terhadap data-data tersebut dengan tujuan untuk memaksimalkan seluruh sumberdaya yang dimilki.
+
 3. Pihak yang bertanggung jawab mengnai proses instalasi dan maintenance adalah Kami dan Network Engineer di persuhaan tersebut.
 
 #### SOAL NOMOR 2 ####
