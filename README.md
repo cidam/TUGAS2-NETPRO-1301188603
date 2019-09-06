@@ -48,4 +48,19 @@ Kelebihan Topologi Tree:
 4.	Pengembangan jaringan yang berada dibawah hub pusat dapat dilakukan dengan mudah
 5.	Manajemen data yang baik, karena komunikasi terjadi secara point to point
 
+#### SOAL NOMOR 3 ####
+
+#### Web Server ####
+
+[![Screen-Shot-2019-09-07-at-01-17-40.png](https://i.postimg.cc/D03QXJb5/Screen-Shot-2019-09-07-at-01-17-40.png)](https://postimg.cc/DJ5bVz6b)
+
+#### Database Server ####
+
+[![Screen-Shot-2019-09-07-at-02-32-43.png](https://i.postimg.cc/BQqHfG58/Screen-Shot-2019-09-07-at-02-32-43.png)](https://postimg.cc/jCFLymFK)
+
+
+#### FTP ####
+
+[![Screen-Shot-2019-09-07-at-02-46-35.png](https://i.postimg.cc/8cTJGhv8/Screen-Shot-2019-09-07-at-02-46-35.png)](https://postimg.cc/bDFNHSLL)
+
 
