@@ -14,3 +14,7 @@
 <p align="center">
   <a>  Sella Tresnasari  (1301188565)  </a> 
 </p> 
+
+#### SOAL NOMOR 1 ####
+
+1. Kelompok kami akan membuat sebuah perncangan jaringan pada sebuah perusahaan penerbangan.
