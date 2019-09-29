@@ -63,4 +63,12 @@ Kelebihan Topologi Tree:
 
 [![Screen-Shot-2019-09-07-at-02-46-35.png](https://i.postimg.cc/8cTJGhv8/Screen-Shot-2019-09-07-at-02-46-35.png)](https://postimg.cc/bDFNHSLL)
 
- **
+
+#### Mail Server ####
+
+![image](https://user-images.githubusercontent.com/54678313/65835942-db53d200-e316-11e9-909d-4e682a8ee1f8.png)
+
+
+#### Server monitoring ####
+
+![image](https://user-images.githubusercontent.com/54678313/65835951-ea3a8480-e316-11e9-835e-6a50af39679e.png)
